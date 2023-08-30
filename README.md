@@ -32,3 +32,6 @@ Based on the dataset we have, We can make an analysis about:
 
 # About Project
 Through this project I try to analize AWS SaaS Sales with simple B2B approach (product and customer). Analysis made in this project is about finance summary, product, and how discount becomes a factor that influences the sales of a product and its profit. Not only that, how customers can give influences through product repurchas and become one of an aspect influencing the sales of product.
+
+You can also access Tableau Public for additional Data Visualizing with link here below:
+https://public.tableau.com/app/profile/ghina.fakhira/viz/CapstoneProject2_16930607186730/SaaSAWSSalesReport 
